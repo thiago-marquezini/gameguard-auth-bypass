@@ -3,7 +3,9 @@
 
 Usage:
 
+```c++
 void main()
 {
     BypassGGAuth(PACKET_SEND, ADDR_V465);
 }
+```
